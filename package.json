@@ -1,0 +1,31 @@
+{
+  "name": "guacamole-js",
+  "version": "0.9.0",
+  "description": "The JavaScript library of guacamole-client as a npm package.",
+  "main": "guacamole.js",
+  "scripts": {
+    "build": "node build"
+  },
+  "devDependencies": {
+    "uglify-js": "~2.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/essentier/guacamole-js.git"
+  },
+  "files": [
+    "LICENSE",
+    "dist/",
+    "guacamole.js"
+  ],
+  "keywords": [
+    "guacamole",
+    "essentier"
+  ],
+  "author": "Chaur Wu <wu.chaur@gmail.com> (http://www.essentier.com/)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/essentier/guacamole-js/issues"
+  },
+  "homepage": "https://github.com/essentier/guacamole-js"
+}
